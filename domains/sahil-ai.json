@@ -1,0 +1,11 @@
+{
+  "description": "Portfolio website for Sahil",
+  "repo": "https://github.com/sahil-karande/Portfolio",
+  "owner": {
+    "username": "sahil-karande",
+    "email": "sahilkarande6@gmail.com"
+  },
+  "record": {
+    "CNAME": "sahil-karande.github.io"
+  }
+}
